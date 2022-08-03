@@ -1,0 +1,17 @@
+Bir golf klubu icin kisi bilgilerini (ad, soyad, aylik gelir) aldiktan sonra
+gelir durumuna gore kisinin sinifini
+(
+    *aylik gelir<20000 ise fakfakir,
+    *aylik gelir 20000-70000 ise fakir,
+    *aylik gelir 70000-150000 ise orta direk,
+    *aylik gelir >150000 ise zengin
+)
+otomatik belirleyen ve belirlenen sinifa gore uygulanacak muameleyi
+
+(   * fakfakir ise guvenligi cagir
+    * fakir ise kibarca ayrilmasini iste
+    * orta direk ise cok ayak altinda dolasmadan kenarda oynayabilirsiniz de ve uye listesine ekleyin
+    * zengin ise bastaci edin ve uye listesine ekleyin
+)
+
+belirleyen bir uygulama yaziniz
